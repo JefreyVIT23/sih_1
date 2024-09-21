@@ -1,16 +1,7 @@
 # sih_1
 
-A new Flutter project.
+Flutter project for the VITish 24 Hackathon hosted in VITC
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project stages our main app which is associated with an ML model working in the background. It integrates seamless connectivity with the servers for identification of dangerous activities surrounding women. These activities are picked up by the AI model which detects gestures and poses. The app integrates a safety feature which lets women contact not only local authority, but also civilians nearby which help save women in danger at all costs.
